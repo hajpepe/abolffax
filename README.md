@@ -1,5 +1,7 @@
 # 💫 About Me:
-i`m currently working on AfshinFx.com <br> i`m currently learning about development lang
+im currently working on AfshinFx.com
+<br>
+im currently learning about development lang
 
 
 ## 🌐 Socials:
