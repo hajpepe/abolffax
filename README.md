@@ -1,7 +1,7 @@
 # 💫 About Me:
-im currently working on AfshinFx.com
-<br>
+im currently working on Guruw
 im currently learning about development lang
+![image](https://github.com/hajpepe/Hajpepe/assets/58140037/a69b5ed1-5c48-47ba-b34f-175d7ea24bf1)
 
 
 ## 🌐 Socials:
