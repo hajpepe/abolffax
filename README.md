@@ -1,7 +1,7 @@
 # 💫 About Me:
 Front End Developer & Game Developer
 </br>
-im currently working on Guruw
+im currently working on Guruw https://dribbble.com/shots/21264417-Design-Agency-Animated-UI
 
 ![image](https://github.com/hajpepe/Hajpepe/assets/58140037/a69b5ed1-5c48-47ba-b34f-175d7ea24bf1)
 
